@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # a simple script, meant to get the 1st initial shell on openAdmin machine from HTB
 # Exploit Title: OpenNetAdmin 18.1.1 - Remote Code Execution
-# Origin exploit by @mattpascoe
-# Edited by @m3dsec
+# Origin exploit @mattpascoe
+# python version @m3dsec
 # Software Link: https://github.com/opennetadmin/ona
 # Version: v18.1.1
 
